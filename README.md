@@ -1,6 +1,6 @@
 # parallax-scrolling
 Это слайдер с parallax эффектом. 
-![Image alt](https://ibb.co/VTm0WgQ)
+![Image alt](/chapion777/parallax-scrollin/raw/main/img/screen-3.png)
 # Технологии в проекте:
 HTML5  
 CSS3  
