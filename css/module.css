@@ -8,7 +8,6 @@ html,
 body {
   height: 100%;
   background-color: black;
-  
 }
 
 /* willChange */
@@ -22,14 +21,10 @@ body {
 }
 
 .slider__wrapper {
-  width: 300vw;
-  display: flex;
-  height: 100%;
   transform-style: preserve-3d;
 }
 
 .slider__item {
-  height: 100%;
   position: relative;
   overflow: hidden;
 }
