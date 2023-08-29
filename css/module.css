@@ -11,14 +11,10 @@ body {
   
 }
 
-:root {
-  --transition: 1s cubic-bezier(.88,.05,.53,.94);
-}
 /* willChange */
 .slider__wrapper,
 .slider__layer {
   will-change: transform;
-  transition: var(--transition)!important;
 }
 
 .slider {
