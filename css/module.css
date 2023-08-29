@@ -11,6 +11,7 @@ body {
 }
 
 /* willChange */
+.slider__item,
 .slider__wrapper,
 .slider__layer {
   will-change: transform;
